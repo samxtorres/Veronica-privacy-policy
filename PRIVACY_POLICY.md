@@ -58,7 +58,7 @@ Veronica requests the following device permissions:
 |---|---|
 | `CAMERA` | Taking food photos for meal analysis |
 | `ACTIVITY_RECOGNITION` | Reading your device's step counter sensor |
-| `READ_MEDIA_IMAGES` | Selecting food photos from your gallery |
+| `READ_MEDIA_IMAGES` | Selecting food photos from your gallery using Android selector |
 
 Permissions are only used for the features described above and are not used for tracking or advertising.
 
